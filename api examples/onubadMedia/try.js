@@ -1,0 +1,1 @@
+// write a function to check a number is prime number?
